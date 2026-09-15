@@ -1,5 +1,5 @@
-set SOURCE_FILE=%DEST_DIR%_Common\StandardTemplateClass.cs
 set DEST_DIR=C:\DATA\GitHub\CS\
+set SOURCE_FILE=%DEST_DIR%_Common\StandardTemplateClass.cs
 
 copy %SOURCE_FILE% %DEST_DIR%Cheetos\Cheetos\StandardTemplateClass.cs
 copy %SOURCE_FILE% %DEST_DIR%DropDown\DropDown\StandardTemplateClass.cs
